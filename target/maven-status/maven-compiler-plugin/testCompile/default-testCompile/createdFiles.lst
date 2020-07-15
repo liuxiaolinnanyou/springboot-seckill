@@ -1,0 +1,5 @@
+com\njupt\mapper\SeckillMapperTest.class
+com\njupt\mapper\SeckillOrderMapperTest.class
+com\njupt\SpringbootSeckillApplicationTests.class
+com\njupt\service\impl\SeckillServiceImplTest.class
+com\njupt\redis\RedisTemplateConfigTest.class
